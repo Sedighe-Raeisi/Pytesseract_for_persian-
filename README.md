@@ -1,0 +1,1 @@
+# Pytesseract_for_persian-
